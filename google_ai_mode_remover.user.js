@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Bye bye Google AI Mode :P
 // @namespace    https://github.com/v1peridae/remove-ai-mode-from-google
-// @version      1.0
+// @version      1.0.1
 // @description  Me when the function has AI Mode (not cool)
 // @author       v1peridae
 // @match        https://www.google.com/*
