@@ -4,6 +4,10 @@
 // @version      1.0
 // @description  Me when the function has AI Mode (not cool)
 // @author       v1peridae
+// @match        https://www.google.com/*
+// @match        https://*.google.com/*
+// @run-at       document-start
+// @grant        none
 // ==/UserScript==
 
 (() => {
